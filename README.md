@@ -1,5 +1,8 @@
 # Sui
 
+Modded version should makes `post-install.example.sh` for rish works in Android 14+.
+You can use the repository as template and build with GitHub Actions or Download my build from [Releases](https://github.com/CyanChanges/Sui/releases).
+
 Modern super user interface (SUI) implementation on Android. <del>The name, Sui, also comes from [a character](https://www.pixiv.net/artworks/71435059).</del>
 
 ## Introduction
