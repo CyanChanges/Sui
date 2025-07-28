@@ -1,5 +1,8 @@
 # Sui
 
+Checkout (EN): https://github.com/CyanChanges/Sui/issues/1 pls?
+看看(简中 zh-Hans): https://github.com/CyanChanges/Sui/issues/2 喵?
+
 Modded version should makes `post-install.example.sh` for rish works in Android 14+.
 You can use the repository as template and build with GitHub Actions or Download my build from [Releases](https://github.com/CyanChanges/Sui/releases).
 
